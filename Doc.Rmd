@@ -2,6 +2,7 @@
 title: "Workshop 2022"
 output: word_document
 author: Leslie
+date "March 4 2022"
 ---
 
 
@@ -22,6 +23,10 @@ When you click the **Knit** button a document will be generated that includes bo
 
 ```{r cars}
 summary(cars)
+```
+
+```{r cars}
+shist(cars)
 ```
 
 ## Including Plots
