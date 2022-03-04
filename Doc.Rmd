@@ -1,11 +1,15 @@
 ---
-title: "Workshop"
+title: "New name for workshop"
 output: word_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+## New first chapter 
+
+This is *basic* text 
 
 ## R Markdown
 
