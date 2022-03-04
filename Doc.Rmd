@@ -1,7 +1,7 @@
 ---
 title: "Workshop 2022"
 output: word_document
-author: Leslie
+author: Leslie N
 date "March 4 2022"
 ---
 
@@ -26,7 +26,7 @@ summary(cars)
 ```
 
 ```{r cars}
-shist(cars)
+hist(cars)
 ```
 
 ## Including Plots

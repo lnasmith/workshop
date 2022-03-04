@@ -1,7 +1,9 @@
 ---
 title: "Workshop 2022"
-output: html_document
-#toc: true # table of contents
+output: 
+  html_document:
+    toc: true # table of contents
+    toc_float: true #toc on left hand side
 #can render multiple formats at once 
 author: Leslie N
 date: "March 4 2022"
